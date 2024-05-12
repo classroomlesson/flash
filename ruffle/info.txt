@@ -1,3 +1,0 @@
-ruffle-nightly-2024_02_03-web-selfhosted
-
-https://ruffle.rs/downloads
